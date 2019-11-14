@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tuktuk</string>
+    <string name="tuktukImageDescription">this is tuktuk icon for app</string>
+    <string name="description">Description: \nThis is a tuktuk app on google play you you can get tuktuk and call driver to go any place you want by tuktuk</string>
+    <string name="website">Website:https://play.google.com/store/apps/details?id=com.moskaoud.banisalamahtuktuk</string>
+    <string name="hour_of_operation">Hour Of Operation : 24 Hour</string>
+</resources>
